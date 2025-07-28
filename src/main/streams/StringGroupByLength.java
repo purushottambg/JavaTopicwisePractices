@@ -1,7 +1,6 @@
 import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
-import java.util.logging.LogManager;
 import java.util.stream.Collectors;
 
 public class StringGroupByLength {
