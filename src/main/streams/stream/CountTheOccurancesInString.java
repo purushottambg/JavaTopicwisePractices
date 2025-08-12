@@ -1,6 +1,5 @@
-import java.util.Arrays;
-import java.util.Comparator;
-import java.util.Locale;
+package stream;
+
 import java.util.Map;
 import java.util.stream.Collectors;
 
